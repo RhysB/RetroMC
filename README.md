@@ -12,5 +12,5 @@ Steps to recreate (if relevant):
 Suggestion synopsis (1 sentence):  
 Any information regarding the suggestion:  
 
-
+# Create Issue
 Click Here To Create An "Issue": [Create Issue](https://github.com/RhysB/RetroMC/issues/new)
