@@ -3,14 +3,14 @@ Welcome to the RetroMC suggestions and bug tracker. All “issues” are handled
 
 # Bug Template
 
-Bug synopsis (1 sentence): 
-In-depth information:
-Steps to recreate (if relevant):
+Bug synopsis (1 sentence):  
+In-depth information:  
+Steps to recreate (if relevant):  
 
 # Suggestion Template
 
-Suggestion synopsis (1 sentence): 
-Any information regarding the suggestion:
+Suggestion synopsis (1 sentence):  
+Any information regarding the suggestion:  
 
 
 Click Here To Create An "Issue": [Create Issue](https://github.com/RhysB/RetroMC/issues/new)
